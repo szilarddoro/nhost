@@ -1,5 +1,12 @@
 # @nhost/dashboard
 
+## 0.4.3
+
+### Patch Changes
+
+- b4e7556f: test new version
+- ca012d79: docs(workos): WorkOS Docs
+
 ## 0.4.2
 
 ### Patch Changes
